@@ -1,0 +1,10 @@
+This is the work I did for my Object-Oriented Programming 2 course (CIT244),
+which I took at CCAC in the spring semester of 2017. I earned an A in this
+course.
+
+LabAssignments:
+Code I wrote for homework.
+
+InclassExamples:
+Code that was used as examples in class. Most of this isn't my own code but it
+shows what we did in class.

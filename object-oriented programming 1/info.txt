@@ -1,0 +1,15 @@
+These files are from my Object Oriented Programming class (CIT-130) that I took
+at CCAC in the spring of 2016. I earned an A in the course.
+
+Assignments:
+A NetBeans project with my completed projects.
+
+loan project:
+Files for a project that involved writing a program to track loan information
+and a UML diagram describing the operation of the program.
+
+price program:
+Files for an assignment in which I analyzed the bugs in a program written
+by another student. No coding was involved, only reading and evaluating code.
+Nonetheless analyzing existing code is an important skill for a software
+developer.

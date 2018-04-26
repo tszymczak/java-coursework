@@ -1,0 +1,15 @@
+These files are from my Intro to Java class (CIT-111) that I took at CCAC in
+the fall semester of 2015. I received an A in the course. The following
+folders are NetBeans projects.
+
+LabAssignments:
+This directory contains the source code for all the assignments I did for this
+couse. I wrote all the code myself.
+
+InClassExamples:
+This directory contains various practice exercises we did in class. For the
+most part, it's not my own work. Some of the programs are from teacher writing
+code on the projector screen while we watched, and some exercises are code that
+he asked us to copy and then modify. While this code is mostly not original to
+me, it still gives an indication of what activities we worked on during the
+lectures.
